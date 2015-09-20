@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Diffusion of active particles in a continuous environment}{2}{section.1}
+\contentsline {section}{\numberline {2}Drift of chemotactic active particles in a continuous environment}{2}{section.2}
+\contentsline {section}{\numberline {3}Diffusion of active particles in a porous environment}{4}{section.3}
+\contentsline {section}{\numberline {4}Drift of chemotactic active particles in a porous environment}{6}{section.4}
+\contentsline {section}{Appendix A: Normalisation of temporal chemotaxis integral}{6}{section*.2}
+\contentsline {section}{Appendix B: Derivation of expression for drift speed of \textsc {abp}s doing spatial chemotaxis}{8}{section*.5}
